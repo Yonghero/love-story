@@ -1,13 +1,36 @@
 {
-  "miniprogramRoot": "./dist",
-  "projectname": "nnxx",
+  "miniprogramRoot": "dist/",
+  "projectname": "%E5%A6%9E%E5%A6%9E%E5%92%8C%E8%BD%A9%E8%BD%A9",
   "description": " 妞妞和轩轩的第二个恋爱世界",
-  "appid": "touristappid",
+  "appid": "wx444930c5768a4254",
   "setting": {
     "urlCheck": true,
+    "scopeDataCheck": false,
+    "coverView": true,
     "es6": false,
-    "postcss": false,
-    "minified": false
+    "postcss": true,
+    "compileHotReLoad": false,
+    "lazyloadPlaceholderEnable": false,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "autoAudits": false,
+    "newFeature": false,
+    "uglifyFileName": false,
+    "uploadWithSourceMap": true,
+    "useIsolateContext": false,
+    "nodeModules": false,
+    "enhance": true,
+    "useMultiFrameRuntime": true,
+    "useApiHook": true,
+    "useApiHostProcess": true,
+    "showShadowRootInWxmlPanel": true,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "disableUseStrict": false,
+    "ignoreUploadUnusedFiles": true,
+    "minifyWXML": true
   },
-  "compileType": "miniprogram"
+  "compileType": "miniprogram",
+  "condition": {}
 }

@@ -35,27 +35,27 @@
   "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.7.7",
+    "@nutui/nutui-taro": "^3.1.8",
+    "@tarojs/components": "3.4.12",
+    "@tarojs/plugin-framework-vue3": "3.4.12",
+    "@tarojs/plugin-html": "3.4.12",
     "@tarojs/runtime": "3.4.12",
     "@tarojs/taro": "3.4.12",
-    "@tarojs/components": "3.4.12",
-    "@tarojs/plugin-html": "3.4.12",
-    "@tarojs/plugin-framework-vue3": "3.4.12",
-    "vue": "^3.0.0",
-    "@nutui/nutui-taro": "^3.1.8"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
-    "@types/webpack-env": "^1.13.6",
-    "@tarojs/mini-runner": "3.4.12",
-    "@tarojs/webpack-runner": "3.4.12",
     "@babel/core": "^7.8.0",
     "@tarojs/cli": "3.4.12",
-    "babel-preset-taro": "3.4.12",
-    "babel-plugin-import": "^1.13.3",
+    "@tarojs/mini-runner": "3.4.12",
+    "@tarojs/webpack-runner": "3.4.12",
+    "@types/webpack-env": "^1.13.6",
     "@vue/compiler-sfc": "^3.0.0",
-    "vue-loader": "^16.0.0-beta.8",
-    "eslint-plugin-vue": "^8.0.0",
+    "babel-plugin-import": "^1.13.3",
+    "babel-preset-taro": "3.4.12",
+    "eslint": "^8.34.0",
     "eslint-config-taro": "3.4.12",
-    "eslint": "^8.12.0",
-    "stylelint": "9.3.0"
+    "eslint-plugin-vue": "^9.9.0",
+    "stylelint": "9.3.0",
+    "vue-loader": "^16.0.0-beta.8"
   }
 }
