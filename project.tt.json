@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "nnxx",
+  "description": " 妞妞和轩轩的第二个恋爱世界",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
